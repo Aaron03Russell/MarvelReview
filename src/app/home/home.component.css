@@ -1,0 +1,75 @@
+.home-container{
+  display:flex;
+  .all-movies{
+      width:100%;
+      background:url(/assets/aaaa.jpg) ;
+      background-position: center;
+      background-size:cover;
+      min-height:calc(100vh - 80px);
+      padding: 40px 10px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: #fbf9f9;
+      .top {
+        display:flex;
+        align-items:center;
+        justify-content: space-between;
+        margin-bottom: 15px;
+        h4{
+          text-transform: uppercase;
+          font-weight: bold;
+          border-left: 5px solid #fc0404;
+          padding-left: 10px;
+        }
+        .view-all{
+          color: #fbf9f9;
+          cursor: pointer;
+          padding-right: 40px;
+        }
+      }
+      
+      
+  }    
+  }
+  
+  .movies-thumbnail{
+    display:flex;
+    justify-content:space-between;
+    
+    .movies{
+      flex:1;
+      width: (50%-10px);
+      margin-right: 5px;
+      
+      .cover{
+        img{
+          cursor:pointer;
+          border-radius:15px;
+          border-style:groove;    
+        }
+        
+        
+
+      }
+      .detail{
+        width: 180px;
+        .name{
+          font-weight: bold;
+          height: 50px;
+          margin-top: 5px;
+          cursor:pointer;
+        }
+      }
+      .rating{
+        padding-right: 45px;
+        position: relative;
+        .rating-value{
+          top:10px;
+          right:0px;
+          font-weight:bold ;
+        }
+      }
+      
+
+    }
+    
+  }

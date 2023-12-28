@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11,
+    "name": "Venom",
+    "cover": "https://resizing.flixster.com/w7oW9FQj1r-lvHn2aNpWEMbXqWc=/180x257/v2/https://resizing.flixster.com/m-_iSmK-QO9H2Iurcv7uu4TrxCM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwZGZhODY3LTI2YzktNGVkYy05YWJlLTVmMGNmMTY2YWZhNS5qcGc=",
+    "rating": 3.15,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Loki",
+    "cover": "/assets/loki (1).jpg",
+    "rating": 4.85,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Shang-Chi",
+    "cover": "/assets/shang-chi (1).jpg",
+    "rating": 4.25,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Spider Man",
+    "cover": "/assets/spider man (1).jpg",
+    "rating": 4.65,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thor ",
+    "cover": "/assets/thor (1).jpg",
+    "rating": 3.76,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Deadpool",
+    "cover":"/assets/daed pool (1).jpg",
+    "rating": 4.25,
+    "reviews": [
+    ]
+  }
+]

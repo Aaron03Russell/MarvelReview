@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17,
+    "name": "DareDevil",
+    "cover": "/assets/daredevil (1).jpg",
+    "rating": 3.45,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Black Panther",
+    "cover": "/assets/black panther (1).jpg",
+    "rating": 4.53,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Incredible Hulk",
+    "cover": "/assets/hulk (1).jpg",
+    "rating": 4.12,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ghost Rider",
+    "cover": "/assets/ghost rider (1).jpg",
+    "rating": 3.75,
+    "reviews": [
+      {
+        "author": "Albus Dumbledore",
+        "published_on": "2021-10-13 11:27:39",
+        "review": "Awesome movie!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "The Punisher",
+    "cover": "/assets/punisher (1).jpg",
+    "rating": 3.12,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 22,
+    "name": "The X-Men",
+    "cover": "/assets/X man (1).jpg",
+    "rating": 3.95,
+    "reviews": [
+    ]
+  }
+]

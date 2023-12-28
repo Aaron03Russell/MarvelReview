@@ -1,0 +1,16 @@
+.header-container{
+    width:100%;
+    height:80px;
+    background: linear-gradient(90deg,#1d12af 4%,black 75%);
+    background-color:#C60001;
+    display: flex;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 30px;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    cursor:pointer;
+}
